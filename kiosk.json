@@ -1,4 +1,5 @@
 {
+  "name": "news",
   "main": "https://raw.githack.com/f/news.kioskwidget/master/kiosk.js",
   "scripts": [],
   "styles": [
