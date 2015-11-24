@@ -1,7 +1,7 @@
 function NewsWidget(config) {
   console.log(config);
   var element = document.createElement("div");
-  element.innerHTML = "merhaba :) " + config.show_items + " haber gosteriliyor";
+  element.innerHTML = "<h1>Haberler "+Math.random()+"</h1>";
   return element;
 }
 
