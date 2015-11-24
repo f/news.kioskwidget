@@ -1,0 +1,7 @@
+{
+  "main": "https://raw.githack.com/f/news.kioskwidget/master/kiosk.js",
+  "scripts": [],
+  "styles": [
+    "https://raw.githack.com/f/news.kioskwidget/master/kiosk.css"
+  ]
+}
